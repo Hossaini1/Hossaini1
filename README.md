@@ -1,1 +1,4 @@
-![profil-bild](profil-bild.png)
+### 👋 Hi, I'm Ali
+
+---
+![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362
