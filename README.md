@@ -16,7 +16,7 @@
 ### My GitHub contributions summary:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hossaini1&theme=white)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossaini1&layout=compact&theme=white)
+
 
 
 
