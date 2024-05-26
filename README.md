@@ -1,7 +1,7 @@
-<p style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;">
-  <span>👋 Hi, I'm Ali</span>
-  <img src="https://komarev.com/ghpvc/?username=Hossaini1&color=green" alt="Profile Views Counter"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <span style="flex: 1;">👋 Hi, I'm Ali</span>
+  <img src="https://komarev.com/ghpvc/?username=Hossaini1&color=green" alt="Profile Views Counter" style="flex-shrink: 0;"/>
+</div>
 
 ---
 
