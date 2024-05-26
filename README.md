@@ -1,3 +1,5 @@
+<div align="center">
+
 ### 👋Hi, I'm Ali
 
 ![](https://komarev.com/ghpvc/?username=Hossaini1&label=PROFILE+VIEWS&color=green&abbreviated=true)
@@ -13,9 +15,13 @@
 | **Databases**          | ![NoSQL](https://img.shields.io/badge/-NoSQL-336791?logo=nosql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)                               |
 | **Tools & Technologies**| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)             |
 ---
+
 ### My GitHub contributions summary:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hossaini1&theme=white)](https://git.io/streak-stats)
+
+</div>
+
 
 
 
