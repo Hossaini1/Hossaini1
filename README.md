@@ -1,6 +1,6 @@
 ### 👋 Hi,I'm Ali
 
-![](https://komarev.com/ghpvc/?username=Hossaini1&label=PROFILE+VIEWS&color=green&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Hossaini1&label=PROFILE+VIEWS&color=blue&abbreviated=true)
 
 ---
 
@@ -14,7 +14,6 @@
 | **Werkzeuge & Technologien** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) |
 
 ---
-
 ### Kontakt:
 
 **Adresse:**  
@@ -22,12 +21,4 @@ Ratingen, Nordrhein-Westfalen, Germany
 
 [![E-Mail](https://img.shields.io/badge/-E--Mail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:1989hossaini1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hossaini/)
-[![WeChat](https://img.shields.io/badge/-WeChat-7BB32E?logo=wechat&logoColor=white&style=flat)](https://wix.com/your-wechat-id)  
-
-
-
-
-
-
-
 
