@@ -19,9 +19,8 @@ Leidenschaft für moderne Webtechnologien in der Entwicklung von benutzerfreundl
 ---
 ### Kontakt:
 
-**Adresse:**  
-Ratingen, Nordrhein-Westfalen, Deutschland
-
 [![E-Mail](https://img.shields.io/badge/-E--Mail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:1989hossaini1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hossaini/)
 
+**Adresse:**  
+Ratingen, Nordrhein-Westfalen, Deutschland
