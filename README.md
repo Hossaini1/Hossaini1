@@ -1,4 +1,7 @@
 ### 👋 Hi,I'm Ali
+**Junior Full Stack Webentwickler**  
+Leidenschaft für moderne Webtechnologien in der Entwicklung von benutzerfreundlichen Frontend-Anwendungen und robusten Backend-Lösungen. Stets bestrebt, sauberen und effizienten Code zu schreiben und neue Technologien zu erlernen.
+
 
 ![](https://komarev.com/ghpvc/?username=Hossaini1&label=PROFILE+VIEWS&color=blue&abbreviated=true)
 
@@ -17,7 +20,7 @@
 ### Kontakt:
 
 **Adresse:**  
-Ratingen, Nordrhein-Westfalen, Germany
+Ratingen, Nordrhein-Westfalen, Deutschland
 
 [![E-Mail](https://img.shields.io/badge/-E--Mail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:1989hossaini1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hossaini/)
