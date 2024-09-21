@@ -3,7 +3,8 @@
 Leidenschaft für moderne Webtechnologien in der Entwicklung von benutzerfreundlichen Frontend-Anwendungen und Backend-Lösungen. Stets bestrebt, sauberen und effizienten Code zu schreiben und neue Technologien zu erlernen.
 
 
-![](https://komarev.com/ghpvc/?username=Hossaini1&label=PROFILE+VIEWS&color=blue&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Hossaini1&label=PROFILE+VIEWS&color=blue&style=flat&include=total)
+
 
 ---
 
